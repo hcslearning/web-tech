@@ -9,6 +9,12 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 1. Azure https://azure.microsoft.com/en-us/pricing/free-services/ 
 1. IBM Cloud https://www.ibm.com/cloud/free 
 1. Alibaba Cloud https://www.alibabacloud.com/free
+1. Vercel https://vercel.com/pricing 
+1. Cloudflare Pages https://pages.cloudflare.com/
+1. Netlify https://www.netlify.com/pricing/
+1. Gatsby https://www.gatsbyjs.com/pricing 
+1. Digital Ocean https://www.digitalocean.com/pricing 
+1. Deno Deploy https://deno.com/deploy 
 1. Firebase https://firebase.google.com/pricing
 1. Supabase https://supabase.com/pricing 
 1. Cyclic.sh https://www.cyclic.sh/pricing 
@@ -18,9 +24,7 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 1. Fly.io https://fly.io/docs/about/pricing/ 
 1. Koyeb https://www.koyeb.com/pricing 
 1. Railway https://railway.app/pricing 
-1. Deno Deploy https://deno.com/deploy 
 1. Render https://render.com/ 
-1. Netlify https://www.netlify.com/pricing/
 1. Nhost https://nhost.io/pricing 
 1. Glitch (sleep) https://glitch.com/pricing 
 1. Hasura https://hasura.io/pricing/
