@@ -9,7 +9,7 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 1. https://azure.microsoft.com/en-us/pricing/free-services/ 
 1. IBM Cloud https://www.ibm.com/cloud/free 
 1. Alibaba Cloud https://www.alibabacloud.com/free
-1. https://firebase.google.com/pricing
+1. Firebase https://firebase.google.com/pricing
 1. Supabase https://supabase.com/pricing 
 1. Cyclic.sh https://www.cyclic.sh/pricing 
 1. Qoddi https://qoddi.com/#pricing 
