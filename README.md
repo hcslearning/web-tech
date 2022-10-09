@@ -6,7 +6,7 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 1. Google Cloud https://cloud.google.com/free 
 1. Amazon AWS https://aws.amazon.com/free/
 1. Oracle Cloud https://www.oracle.com/cloud/free/ 
-1. https://azure.microsoft.com/en-us/pricing/free-services/ 
+1. Azure https://azure.microsoft.com/en-us/pricing/free-services/ 
 1. IBM Cloud https://www.ibm.com/cloud/free 
 1. Alibaba Cloud https://www.alibabacloud.com/free
 1. Firebase https://firebase.google.com/pricing
