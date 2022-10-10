@@ -14,6 +14,8 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 1. Netlify https://www.netlify.com/pricing/
 1. Gatsby https://www.gatsbyjs.com/pricing 
 1. Digital Ocean https://www.digitalocean.com/pricing 
+1. Vultr https://www.vultr.com/es/pricing/ 
+1. Hostinger https://www.hostinger.com/vps-hosting 
 1. Deno Deploy https://deno.com/deploy 
 1. Firebase https://firebase.google.com/pricing
 1. Supabase https://supabase.com/pricing 
