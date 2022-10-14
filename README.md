@@ -28,6 +28,7 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 1. Railway https://railway.app/pricing 
 1. Render https://render.com/ 
 1. Nhost https://nhost.io/pricing 
+1. MDB Go (No custom domain) https://mdbgo.com/pricing/ 
 1. Glitch (sleep) https://glitch.com/pricing 
 1. Hasura https://hasura.io/pricing/
 1. Get Porter dot DEV https://getporter.dev
@@ -40,3 +41,43 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 1. Supabase https://supabase.com/pricing 
 1. ElephantSQL https://www.elephantsql.com/plans.html
 1. Clever Cloud https://www.clever-cloud.com/pricing/ 
+
+## Frameworks
+
+### PHP 
+
+1. Symfony
+1. Laravel 
+
+### Python 
+
+1. Django
+1. Flask
+
+### Ruby 
+
+1. Ruby on Rails 
+
+### Java 
+
+1. Spring 
+
+### CSS 
+
+1. Tailwind
+1. Bootstrap 
+1. Tailwind Flowbite 
+1. MDBootstrap 
+
+## Headless CMS 
+
+### NodeJS
+
+1. PayloadCMS 
+1. Strapi 
+
+## CMS 
+
+1. Wordpress 
+1. Drupal 
+1. Joomla 
