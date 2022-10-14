@@ -49,6 +49,16 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 1. Symfony
 1. Laravel 
 
+### JS 
+
+1. NextJS
+1. NuxtJS 
+1. Gatsby
+1. Astro 
+1. React
+1. Angular
+1. Vue 
+
 ### Python 
 
 1. Django
