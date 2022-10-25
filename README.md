@@ -20,6 +20,7 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 1. Firebase https://firebase.google.com/pricing
 1. Supabase https://supabase.com/pricing 
 1. Cyclic.sh https://www.cyclic.sh/pricing 
+1. Deta https://deta.sh
 1. Qoddi https://qoddi.com/#pricing 
 1. Webdock https://webdock.io/en 
 1. North Flank https://northflank.com/pricing 
