@@ -75,6 +75,7 @@ Vendors, platforms, tools, resources, languages, frameworks, comparisons, etc.
 
 1. NextJS
 1. NuxtJS 
+1. HTMX https://htmx.org/
 1. Gatsby
 1. Astro 
 1. React
