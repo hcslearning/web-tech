@@ -170,7 +170,7 @@ Vendors, platforms, tools, resources, languages, frameworks, comparisons, etc.
 ## Email 
 
 1. Send Grid https://sendgrid.com/ 
+1. Mailjet https://www.mailjet.com/
 1. Sendin Blue https://sendinblue.com/ 
 1. Mail Chimp https://mailchimp.com/ 
 1. Mail Gun https://www.mailgun.com/ 
-1. 
