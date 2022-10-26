@@ -1,5 +1,6 @@
-# web-tech
-Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
+# Web Tech
+
+Vendors, platforms, languages, frameworks, comparisons, etc.
 
 ## Cloud Deploy 
 
@@ -79,6 +80,19 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 1. React
 1. Angular
 1. Vue 
+
+### Rust 
+
+1. Actix https://actix.rs/ 
+1. Rocket https://rocket.rs/ 
+
+### C#
+
+1. Blazor https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor
+
+### C++
+
+1. Drogon https://drogon.org/
 
 ### Python 
 
