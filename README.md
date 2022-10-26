@@ -1,6 +1,6 @@
 # Web Tech
 
-Vendors, platforms, languages, frameworks, comparisons, etc.
+Vendors, platforms, tools, resources, languages, frameworks, comparisons, etc.
 
 ## Cloud Deploy 
 
@@ -126,3 +126,51 @@ Vendors, platforms, languages, frameworks, comparisons, etc.
 1. Wordpress 
 1. Drupal 
 1. Joomla 
+
+# Domain Names
+
+1. https://www.freenom.com/ 
+
+## Tools 
+
+1. DNS Checker https://dnschecker.org/ 
+
+
+## Control Panels
+
+1. Cloud Panel https://www.cloudpanel.io/ 
+1. Hestia CP https://www.hestiacp.com/ 
+
+## Vectores 
+
+1. Font Awesome https://fontawesome.com/ 
+1. Un Draw https://undraw.co/illustrations 
+1. CSS GG https://css.gg/ 
+1. Simple Icons https://simpleicons.org/ 
+1. SVG Repo https://www.svgrepo.com/ 
+1. Box Icons https://boxicons.com/ 
+1. Ira Design https://iradesign.io/ 
+1. Humaaans https://www.humaaans.com/ 
+1. Lukasz Adam https://lukaszadam.com/illustrations 
+1. 365 Cons http://www.365cons.com/
+
+
+## Images
+
+1. Unsplax https://unsplash.com/
+1. Free Pik https://www.freepik.es/
+1. Pixabay https://pixabay.com/ 
+1. Pexels https://www.pexels.com/ 
+
+## Wireframe 
+
+1. Figma https://www.figma.com/ 
+1. Balsamiq https://balsamiq.com/ 
+
+## Email 
+
+1. Send Grid https://sendgrid.com/ 
+1. Sendin Blue https://sendinblue.com/ 
+1. Mail Chimp https://mailchimp.com/ 
+1. Mail Gun https://www.mailgun.com/ 
+1. 
