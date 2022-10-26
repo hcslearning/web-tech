@@ -45,23 +45,23 @@ Apuntes, tips, plataformas, lenguajes, comparativas, cloud environments, etc
 
 ## VPS
 
-1. lowendbox.com
-1. racknerd.com
-1. hosteons.com
-1. lusovps.com
-1. hosting.gullo.me
-1. 1usdhost.com
-1. ionos.com
-1. hostsailor.com
-1. justhost.ru
-1. deploynode.com
-1. vps.net
-1. time4vps.com
-1. inceptionhosting.com
-1. virtua.cloud
-1. hostodo.com
-1. servzen.com
-1. virtono.com
+1. Lowendbox lowendbox.com
+1. RackNerd racknerd.com
+1. Hosteons hosteons.com
+1. LusoVPS lusovps.com
+1. Hosting Gullo hosting.gullo.me
+1. 1 USD Host 1usdhost.com
+1. Ionos ionos.com
+1. Host Sailor hostsailor.com
+1. Just Host RU justhost.ru
+1. Deploy Node deploynode.com
+1. VPS dot NET vps.net
+1. Time 4 VPS time4vps.com
+1. Inception Hosting inceptionhosting.com
+1. Virtua Cloud virtua.cloud
+1. Hostodo hostodo.com
+1. Serv Zen servzen.com
+1. Virtono virtono.com
 
 ## Frameworks
 
